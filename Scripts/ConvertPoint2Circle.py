@@ -4,7 +4,7 @@ __version__ = "2019.07.12"
 
 import rhinoscriptsyntax as rs
 
-points = rs.GetObjects("Selecciona puntos",rs.filter.point,True,True)
+points = rs.GetObjects("Select points",rs.filter.point,True,True)
 diam = rs.GetReal("Diameter",10.0)
 
 if points and diam:

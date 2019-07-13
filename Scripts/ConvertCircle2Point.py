@@ -4,7 +4,7 @@ __version__ = "2019.07.12"
 
 import rhinoscriptsyntax as rs
 
-curves = rs.GetObjects("Selecciona curvas",rs.filter.curve,True,True)
+curves = rs.GetObjects("Select curves",rs.filter.curve,True,True)
 
 if curves:
     try:
