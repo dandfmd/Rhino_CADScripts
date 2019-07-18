@@ -1,7 +1,7 @@
 # CADScripts
 CADScripts it's a collection of Rhino commands, mostly for drawing, with no specific intent. 
 
-### Commands
+## Commands
 
  - `Close2Curves`
  - `ConvertCircle2Point`
@@ -13,7 +13,7 @@ CADScripts it's a collection of Rhino commands, mostly for drawing, with no spec
  - `SelLength`
  - `SmashMultiple`
  
- ### Install
+ ## Install
 
  1. [Download Windows Rhino 6 installation file from GitHub.](https://github.com/dfmdmx/Rhino_CADScripts/raw/master/CADScripts.rhi)
  2. Install the plugin and restart Rhino.
