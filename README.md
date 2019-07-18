@@ -19,7 +19,7 @@ CADScripts it's a collection of Rhino commands, mostly for drawing, with no spec
  2. Install the plugin and restart Rhino.
  3. Type any command from the list above in the Rhino command bar.
 
-### Rhino 5 and MacOS
+### Rhino 5 and MacOS with RhinoPython
 
 Some of the commands might not work properly, as in they have not been tested. Rhino 6 users can also follow this steps without expecting any problems. 
 
