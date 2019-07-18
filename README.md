@@ -21,7 +21,7 @@ CADScripts it's a collection of Rhino commands, mostly for drawing, with no spec
 
 ### Rhino 5 and MacOS
 
-Some of the commands might not work properly, as in they have not been tested.
+Some of the commands might not work properly, as in they have not been tested. Rhino 6 users can also follow this steps without expecting any problems. 
 
  1. [Download source folder zip file from GitHub.](https://github.com/dfmdmx/Rhino_CADScripts/archive/master.zip)
  2. Open the zip file and extract de `Scripts` folder somewhere safe. 
