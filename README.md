@@ -27,4 +27,4 @@ Some of the commands might not work properly, as in they have not been tested. R
  2. Open the zip file and extract de `Scripts` folder somewhere safe. 
  3. In the Rhino command console type: `-_RunPythonScript ("\somewhere\safe\Scripts\SomeRandomScriptFromAbove.py")`
  4. Add the previous line into your Rhino command aliases under Tools-Options-Aliases menu to make it work as a normal command. 
- 5. Type: `-_EditPythonScript ("\somewhere\safe\Scripts\SomeRandomScriptFromAbove.py")` to make improvements and share. 
+ 5. Type: `-_EditPythonScript ("\somewhere\safe\Scripts\SomeRandomScriptFromAbove.py")` to write improvements and share. 
