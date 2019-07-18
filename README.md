@@ -1,2 +1,2 @@
-# RhinoScripts
- Simple on the go trouble solvers
+# CADScripts
+CADScripts it's a collection of Rhino commands, mostly for drawing, with no specific intent. 
