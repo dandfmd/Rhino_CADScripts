@@ -26,6 +26,6 @@ Some of the command might not work properly, as in they have not been tested.
  1. [Download source folder zip file from GitHub.](https://github.com/dfmdmx/Rhino_CADScripts/archive/master.zip)
  2. Open the zip file and extract de `Scripts` folder somewhere safe. 
  3. In the Rhino command console type: `-_RunPythonScript ("\somewhere\safe\Scripts\OffsetAndClose.py")`
- 4. Add the previous line into your Rhino command aliases under Tools-Options-Aliases menu to make it work as normal command. 
+ 4. Add the previous line into your Rhino command aliases under Tools-Options-Aliases menu to make it work as a normal command. 
  
  
