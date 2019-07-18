@@ -24,6 +24,6 @@ Rhino 5 and MacOS users might be able tu run some of the commands as python scri
  1. [Download Windows Rhino 6 installation file from GitHub.](https://github.com/dfmdmx/Rhino_CADScripts/raw/master/CADScripts.rhi)
  2. Open the zip file and extract de Scripts folder somewhere safe. 
  3. In the Rhino command console type: `-_RunPythonScript ("\somewhere\safe\Scripts\OffsetAndClose.py")`
- 4. Add the previous line into your rhino command aliases under Tools-Options-Aliases menu to make it work as normal command. 
+ 4. Add the previous line into your Rhino command aliases under Tools-Options-Aliases menu to make it work as normal command. 
  
  
